@@ -28,6 +28,7 @@ import Datalist from "./Pages/Datalist";
 
 import Contact from "./Pages/Contact";
 import About from "./Pages/About";
+import GlobalRedux from "./Pages/Global/GlobalRedux";
 
 
 function App() {
@@ -121,6 +122,7 @@ function App() {
        {/* <Hooks/>  */}
       {/* <Hooks1/> */}
       <Test/>
+      <GlobalRedux/>
       {/* <Datalist/> */}
       {/* <Contact/> */}
       {/* <About/> */}
