@@ -1,0 +1,13 @@
+.cardnav{
+
+    text-align: center;
+    display: flex;
+    /* align-items: center; */
+    padding: 10px;
+    background-color:beige;
+}
+.cardwors{
+ width: 120px;
+ height: 78px;
+ padding: 15px;
+}

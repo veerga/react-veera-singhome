@@ -1,0 +1,8 @@
+.flowers{
+    color:blue;
+    /* display: flex; */
+    border: 5px solid red;
+    border-radius: 10%;
+    font-weight: 800;
+    
+}

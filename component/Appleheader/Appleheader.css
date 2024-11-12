@@ -1,0 +1,29 @@
+
+.header{
+    font-size: 20px;
+    display:flex;
+    justify-content:space-evenly;
+    /* flex-direction: row; */
+    background-color:beige;
+    /* padding-left: 12rem; */
+    /* width:50rem; */
+    
+    
+
+}
+.headercr{
+    color: darkgrey;
+}
+.headercr1{
+    color: blue;
+    
+}
+.header1{
+    width: 50%;
+    
+
+}
+
+
+    
+    

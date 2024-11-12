@@ -1,0 +1,14 @@
+
+.navbar{
+display:flex;
+flex-direction:row;
+font-size: 15px;
+padding-left: 15rem;
+margin: 0px;
+background-color:beige;
+}
+.nav1{
+    padding: 10px;
+}
+
+
